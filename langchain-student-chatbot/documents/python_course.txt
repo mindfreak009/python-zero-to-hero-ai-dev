@@ -1,0 +1,42 @@
+
+DOCUMENT_ID: PYTHON_001
+COURSE_NAME: Python Programming
+DURATION: 12 Weeks
+LEVEL: Beginner to Intermediate
+KEYWORDS: Python, programming, variables, loops, functions, OOP, file handling, APIs, automation
+
+OVERVIEW:
+This course teaches Python programming fundamentals and practical application development. Students learn to write, debug, and maintain Python programs.
+
+MODULES:
+1. Python Basics: Variables, data types, operators, and input/output.
+2. Control Flow: Conditional statements, loops, and iteration.
+3. Data Structures: Lists, tuples, sets, and dictionaries.
+4. Functions: Parameters, return values, modules, and reusable code.
+5. File Handling: Reading files, writing files, CSV, and JSON.
+6. Exception Handling: Managing errors with try and except.
+7. OOP: Classes, objects, inheritance, and polymorphism.
+8. Libraries: NumPy, pandas, API integration, and package management.
+
+PROJECTS:
+- Student management system
+- Expense tracker
+- File automation tool
+- API data retrieval application
+- CSV data analysis application
+
+PREREQUISITES:
+No prior programming experience is required.
+
+FAQ:
+Q: What is a Python function?
+A: A function is a reusable block of code that performs a specific task.
+
+Q: What is the difference between a list and a tuple?
+A: Lists are mutable, while tuples are immutable.
+
+Q: What is exception handling?
+A: Exception handling allows programs to manage runtime errors using constructs such as try and except.
+
+Q: Can Python be used for AI?
+A: Yes. Python supports machine learning, deep learning, NLP, and generative AI development.

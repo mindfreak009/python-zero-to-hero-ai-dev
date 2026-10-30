@@ -1,0 +1,37 @@
+
+DOCUMENT_ID: DS_001
+COURSE_NAME: Data Science and Business Analytics
+DURATION: 20 Weeks
+LEVEL: Beginner to Intermediate
+KEYWORDS: data science, Python, pandas, NumPy, SQL, statistics, visualization, machine learning
+
+OVERVIEW:
+This course teaches learners to collect, clean, analyze, visualize, and interpret data using Python, statistics, SQL, and machine learning.
+
+MODULES:
+1. Data Science Fundamentals: Data types, data collection, and analytical workflows.
+2. Python: Python basics, pandas, and NumPy.
+3. Statistics: Probability, averages, distributions, and hypothesis testing.
+4. SQL: Queries, joins, filtering, and aggregation.
+5. Data Analysis: Missing values, outliers, and exploratory data analysis.
+6. Visualization: Charts, dashboards, and business reporting.
+7. Machine Learning: Regression, classification, clustering, and model evaluation.
+
+PROJECTS:
+- Retail sales analysis
+- Customer churn prediction
+- House price prediction
+- Business performance dashboard
+
+PREREQUISITES:
+Basic computer skills and mathematics are recommended. Previous programming experience is not mandatory.
+
+FAQ:
+Q: What is EDA?
+A: Exploratory Data Analysis examines data using statistics and visualizations to identify patterns, relationships, and quality issues.
+
+Q: What is the difference between classification and regression?
+A: Classification predicts categories, while regression predicts numerical values.
+
+Q: Which tools are covered?
+A: Python, pandas, NumPy, SQL, Matplotlib, Seaborn, and scikit-learn.

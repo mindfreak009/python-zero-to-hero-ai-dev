@@ -1,0 +1,39 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files (if generated locally)
+*.db
+*.sqlite3
+
+# Model files
+*.gguf
+*.bin
+*.safetensors
+
+# Generated files
+.pytest_cache/
+.mypy_cache/

@@ -1,0 +1,42 @@
+
+DOCUMENT_ID: POLICY_001
+DOCUMENT_TYPE: Institute Policy
+STATUS: Sample Policy - Requires Approval
+KEYWORDS: admission, attendance, fees, refunds, examinations, certificates, student conduct
+
+ADMISSION:
+Students must complete the application process and provide required documents. Admission is confirmed only after institutional verification.
+
+ATTENDANCE:
+The sample minimum attendance requirement is 75%. This threshold must be verified against the institute's approved policy.
+
+FEES:
+Course fees depend on the selected program and official fee schedule. Students should retain payment receipts and contact the accounts department regarding payment issues.
+
+REFUNDS:
+Refund eligibility depends on the approved refund policy and enrollment agreement. Students must submit a formal request. No specific refund amount or deadline is established in this sample.
+
+ASSESSMENTS:
+Students must complete required assignments, examinations, and projects. Plagiarism, impersonation, and unauthorized collaboration may violate academic integrity rules.
+
+CERTIFICATES:
+Certificates may be issued after the student satisfies the applicable attendance, assessment, and course completion requirements.
+
+STUDENT CONDUCT:
+Students must respect staff, fellow students, institutional resources, and intellectual property.
+
+PRIVACY:
+Student records must be accessed only for authorized purposes. Personal information must not be disclosed to unauthorized individuals.
+
+FAQ:
+Q: What is the minimum attendance?
+A: The sample threshold is 75%; confirm the official institute policy.
+
+Q: Is a refund guaranteed?
+A: No. Eligibility depends on the applicable approved refund policy.
+
+Q: Does course completion guarantee a job?
+A: No. Employment is not guaranteed.
+
+AI INSTRUCTIONS:
+Do not invent fees, deadlines, contact details, or policy rules. If information is missing, refer the student to the authorized administration.

@@ -1,0 +1,37 @@
+
+DOCUMENT_ID: AI_001
+COURSE_NAME: Artificial Intelligence and Generative AI
+DURATION: 16 Weeks
+LEVEL: Beginner to Intermediate
+KEYWORDS: AI, machine learning, deep learning, LLM, NLP, generative AI, RAG
+
+OVERVIEW:
+This course introduces artificial intelligence, machine learning, deep learning, natural language processing, and generative AI. Students learn to build AI-powered applications and chatbots.
+
+MODULES:
+1. AI Fundamentals: AI concepts, applications, and intelligent systems.
+2. Machine Learning: Supervised learning, unsupervised learning, classification, and regression.
+3. Deep Learning: Neural networks, training, and model evaluation.
+4. NLP: Text processing, sentiment analysis, and language models.
+5. Generative AI: LLMs, prompt engineering, and AI APIs.
+6. RAG: Embeddings, vector databases, semantic search, and document question answering.
+7. AI Projects: Chatbots, document assistants, and responsible AI.
+
+PREREQUISITES:
+Basic computer knowledge is recommended. Python programming experience is helpful.
+
+PROJECTS:
+- AI-powered FAQ chatbot
+- Sentiment analysis application
+- Document question-answering system
+- RAG-based institute assistant
+
+FAQ:
+Q: What is the course duration?
+A: 16 weeks.
+
+Q: What is RAG?
+A: Retrieval-Augmented Generation retrieves relevant external information and provides it to a language model to generate context-grounded answers.
+
+Q: Does the course guarantee employment?
+A: No. Employment depends on skills, experience, and employer requirements.
